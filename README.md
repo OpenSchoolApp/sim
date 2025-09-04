@@ -2,7 +2,7 @@
 
 🎓 **Open School App** adalah sistem informasi manajemen sekolah berbasis web dan mobile yang dirancang untuk menyederhanakan operasional sekolah. Dibangun dengan teknologi terbuka, SIM ini membantu sekolah mengelola data, absensi, dan penerimaan siswa baru secara digital dan efisien.
 
-![Open School App - Dashboard SIM](https://example.com/screenshot-dashboard.jpg)  
+![Open School App - Dashboard SIM](https://raw.githubusercontent.com/OpenSchoolApp/sim/refs/heads/main/Images/dashboard.png)  
 
 ## 🔧 Fitur Utama
 - ✅ Terintegrasi langsung dengan **Dapodik** – tarik data guru, siswa, dan kelas otomatis  
@@ -14,7 +14,9 @@
 
 ## 📱 Aplikasi Mobile
 Absensi harian guru dan siswa dilakukan melalui aplikasi Android:
-![Absensi App GPS](https://example.com/screenshot-absensi.jpg)  
+![Absensi App GPS](https://raw.githubusercontent.com/OpenSchoolApp/sim/refs/heads/main/Images/1.jpg)  
+![Absensi App GPS](https://raw.githubusercontent.com/OpenSchoolApp/sim/refs/heads/main/Images/2.jpg)  
+![Absensi App GPS](https://raw.githubusercontent.com/OpenSchoolApp/sim/refs/heads/main/Images/3.jpg)  
 *Aplikasi absensi dengan fitur lokasi GPS*
 
 ## 🚀 Teknologi
